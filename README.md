@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code and artifacts for analyzing the Kaggle GoodReads Best Books dataset. The goal is to load the data into an RDBMS, normalize it, perform exploratory data analysis, and train a model to generate fictional books.
+This repository contains the code and artifacts for analyzing the Kaggle GoodReads Best Books dataset. The goal is to load the data into an RDBMS, normalize it, and to perform exploratory data analysis to determine what metric to use as the "best" books.
 
 ## Requirements
 
@@ -49,7 +49,7 @@ The project performs the following tasks:
 
 4. **Database Population**: After normalization, the data is loaded into a PostgreSQL database. This involves the creation of the necessary tables, and insertion of the data into the tables.
 
-5. **Data Analysis**: Utilizing both SQL and Pandas, exploratory data analysis is conducted to derive insights and train a model for generating fictional books.
+5. **Data Analysis**: Utilizing both SQL and Pandas, exploratory data analysis is conducted to derive insights into what metrics might be the most optimal to gauge the "best" books.
 
 ## Setup
 
