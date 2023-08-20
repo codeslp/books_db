@@ -49,7 +49,7 @@ The project performs the following tasks:
 
 4. **Database Population**: After normalization, the data is loaded into a PostgreSQL database. This involves the creation of the necessary tables, and insertion of the data into the tables.
 
-5. **Data Analysis**: Utilizing both SQL and Pandas, exploratory data analysis is conducted to derive insights into what metrics might be the most optimal to gauge the "best" books.
+5. **Data Analysis**: Utilizing both SQL and Pandas, exploratory data analysis is conducted to derive insights into what metrics might be the optimal gauge of "best" books.
 
 ## Setup
 
