@@ -1,5 +1,7 @@
 *.csv
 assignment.ipynb
+.DS_store
+**/.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
