@@ -18,6 +18,12 @@ This repository contains the code and artifacts for analyzing the Kaggle GoodRea
 - **\`artifacts\`**: Includes the Entity Relationship Diagram (ERD) representing the normalized data schema made with drawio and requirements.txt file.
 - **\`doc\`**: Notebook used to record cleaning and normalization tasks.
 
+## Source Notebooks:
+- These must be run in the order listed below.
+1. preparation.ipynb: Notebook used to clean and normalize the data.
+2. create_tables.ipynb: Notebook used to create the tables in the database.
+3. analysis.ipynb: Notebook used to analyze the data.
+
 ## Getting Started
 
 1. **Download Data**: Ensure that the GoodReads Best Books data is downloaded and placed in the \`data\` folder.
