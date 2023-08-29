@@ -62,7 +62,7 @@ The project performs the following tasks:
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/books_db.git
+    git clone https://github.com/codeslp/books_db.git
     ```
 
 2. Navigate to the project directory.
@@ -98,9 +98,9 @@ The project performs the following tasks:
 5. **Create a .env file** with your database credentials:
 
     ```bash
-    DB_USER=your_db_username
-    DB_PASSWORD=your_db_password
-    DB_NAME=your_database_name
+    DB_USER=<your_db_username>
+    DB_PASSWORD=<your_db_password>
+    DB_NAME=<your_database_name>
     ```
 
 6. **Update the database connection string** in the appropriate notebook within the `src` folder.
