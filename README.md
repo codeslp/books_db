@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This repository contains the code and artifacts for analyzing the Kaggle GoodReads Best Books dataset. The goal is to load the data into an RDBMS, normalize it, and to perform exploratory data analysis to determine what metric to use as the "best" books.
+This repository contains the code and artifacts for analyzing the Kaggle GoodReads Best Books dataset. The goals are: 
+- Clean the dataset
+- Normalize the data
+- Load into postgres RBMS
+- Perform exploratory data analysis to determine what metric to use as the "best" books.
 
 ![books_db drawio](https://github.com/codeslp/books_db/assets/54224858/ae956cd4-41c7-403b-85c5-4bd8b2629234)
 
